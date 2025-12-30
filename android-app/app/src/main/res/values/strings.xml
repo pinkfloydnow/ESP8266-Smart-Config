@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alert Watcher</string>
+    <string name="title_activity_main">Alert Watcher</string>
+    <string name="enable_service">Activer le service de notifications</string>
+    <string name="selected_app">Application surveillée</string>
+    <string name="keyword_label">Mot-clé à détecter</string>
+    <string name="tone_label">Sonnnerie / chanson</string>
+    <string name="repeat_label">Nombre de répétitions</string>
+    <string name="schedule_label">Plage horaire active</string>
+    <string name="save">Enregistrer</string>
+    <string name="status_enabled">Service actif</string>
+    <string name="status_disabled">Service désactivé</string>
+    <string name="notification_permission_rationale">Veuillez autoriser l'accès aux notifications pour déclencher les alertes.</string>
+</resources>
